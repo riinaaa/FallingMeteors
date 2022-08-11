@@ -11,12 +11,8 @@ for the player.
 - Ability To Interact
 - Animations
 
-
-### Gameplay
-![Gif](https://github.com/riinaaa/FallingMeteors/blob/main/ezgif-5-dac1c56d09.gif)
-
+##
+##
 
 ### Preview
-![This is an image](https://github.com/riinaaa/FallingMeteors/blob/main/assets/fallingMeteors1.png)
-![This is an image](https://github.com/riinaaa/FallingMeteors/blob/main/assets/fallingMeteors2.png)
-![This is an image](https://github.com/riinaaa/FallingMeteors/blob/main/assets/fallingMeteors3.png)
+![Gif](https://github.com/riinaaa/FallingMeteors/blob/main/ezgif-5-dac1c56d09.gif)
