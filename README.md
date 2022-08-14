@@ -1,5 +1,5 @@
 # Falling Meteors :rocket:
-The game is about a spaceship that dodge incoming meteors (by changing lanes left and right) to survive the Meteors Showers.
+The game is about a spaceship that dodge incoming meteors (by changing lanes left and right) to survive the Meteor Showers.
 When the spaceship dodge the falling meteors the score will increase, and when the spaceship collide with falling meteors the game ends and the score will show
 for the player.
 
